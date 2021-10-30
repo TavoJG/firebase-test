@@ -1,0 +1,10 @@
+##Key-File
+key-file.json
+
+##Modulos
+node_modules/
+
+##Variables de entorno
+*.env
+##Código transpilado
+dist/
